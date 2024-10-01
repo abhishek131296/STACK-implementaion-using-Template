@@ -1,6 +1,8 @@
+/**********************       I N C L U D E      ********* */
 #include<iostream>
 #include <windows.h>
 #include<cstdlib>
+/****************         M I C R O      ***************** */
 #define size 5
 using namespace std;
 void changeColor(int desiredColor){
